@@ -22,13 +22,16 @@ DIY Ventilator - 1st time running test<br>
 DIY Ventilator - using a rigid ambu bag<br>
 [![DIY Ventilator - using a rigid ambu bag](https://img.youtube.com/vi/j2FD0DaQvHU/0.jpg)](https://www.youtube.com/watch?v=j2FD0DaQvHU)
 
-TODO
-STL
+## STL
 
-TODO
-Firmware
+See [STL folder](https://github.com/SimFeedback/DIY-3DP-Ventilator---RC-Servo-/tree/master/STL)
 
-Ressources and Links:
+
+## Firmware
+
+See [Firmware folder](https://github.com/SimFeedback/DIY-3DP-Ventilator---RC-Servo-/tree/master/FW)
+
+# Ressources and Links:
 
 https://www.ambu.de/produkte/airwaymanagement/beatmungsbeutel/product/ambu-spur-ii
 
@@ -36,4 +39,5 @@ https://www.ambu.de/produkte/airwaymanagement/beatmungsbeutel/product/ambu-mark-
 
 https://hobbyking.com/de_de/turnigytm-s8166m-high-torque-servo-33kg-0-21sec-154g.html
 
-License: Public Domain, feel free to use without any restrictions.
+# License
+Public Domain, feel free to use without any restrictions.
