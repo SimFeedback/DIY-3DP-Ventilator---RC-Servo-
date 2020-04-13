@@ -14,17 +14,13 @@ It does not have any interface yet, you need to modify the Arduino source code f
 
 I do hope this will never be needed as a serious medical applications.
 
-TODO
-Images
-
-DIY Ventilator in action<br>
+DIY Ventilator - 1st time running test<br>
 [![DIY ventilator - 1st time running test](https://img.youtube.com/vi/GcyZ6JAaC2A/0.jpg)](https://www.youtube.com/watch?v=GcyZ6JAaC2A)
 
-<br><br>
+<br>
 
-DIY Ventilator in action<br>
+DIY Ventilator - using a rigid ambu bag<br>
 [![DIY Ventilator - using a rigid ambu bag](https://img.youtube.com/vi/j2FD0DaQvHU/0.jpg)](https://www.youtube.com/watch?v=j2FD0DaQvHU)
-
 
 TODO
 STL
