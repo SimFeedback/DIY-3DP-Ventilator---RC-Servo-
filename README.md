@@ -1,7 +1,7 @@
 # DIY 3DP Ventilator - RC-Servo -
 A 3D printed DIY Ventilator using RC Servos
 
-** WIP **
+## WIP ##
 
 Target of this project is to produce a 3D printed ventilator using RC Servos and an Ambu SPUR or Ambu MARK ventilator bag.
 
@@ -16,6 +16,15 @@ I do hope this will never be needed as a serious medical applications.
 
 TODO
 Images
+
+DIY Ventilator in action<br>
+[![DIY ventilator - 1st time running test](https://img.youtube.com/vi/GcyZ6JAaC2A/0.jpg)](https://www.youtube.com/watch?v=GcyZ6JAaC2A)
+
+<br><br>
+
+DIY Ventilator in action<br>
+[![DIY Ventilator - using a rigid ambu bag](https://img.youtube.com/vi/j2FD0DaQvHU/0.jpg)](https://www.youtube.com/watch?v=j2FD0DaQvHU)
+
 
 TODO
 STL
