@@ -1,2 +1,34 @@
-# DIY-3DP-Ventilator---RC-Servo-
+# DIY 3DP Ventilator - RC-Servo -
 A 3D printed DIY Ventilator using RC Servos
+
+** WIP **
+
+Target of this project is to produce a 3D printed ventilator using RC Servos and an Ambu SPUR or Ambu MARK ventilator bag.
+
+You need one of the Ambu bag, two RC Servo, a DC Power Supply (5-6v, 30-40w) and a Arduino to drive this ventilator.
+
+Status:
+
+Project is Work in Porgress. It is not in a working state, but it can do some limited action.
+It does not have any interface yet, you need to modify the Arduino source code for any changes.
+
+I do hope this will never be needed as a serious medical applications.
+
+TODO
+Images
+
+TODO
+STL
+
+TODO
+Firmware
+
+Ressources and Links:
+
+https://www.ambu.de/produkte/airwaymanagement/beatmungsbeutel/product/ambu-spur-ii
+
+https://www.ambu.de/produkte/airwaymanagement/beatmungsbeutel/product/ambu-mark-iv
+
+https://hobbyking.com/de_de/turnigytm-s8166m-high-torque-servo-33kg-0-21sec-154g.html
+
+License: Public Domain, feel free to use without any restrictions.
